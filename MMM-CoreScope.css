@@ -1,0 +1,10 @@
+.MMM-CoreScope .loading,
+.MMM-CoreScope .no-activity {
+	font-style: italic;
+}
+.MMM-CoreScope .error {
+	color: #cc0000;
+}
+.MMM-CoreScope td + td {
+	padding-left: 1em;
+}
